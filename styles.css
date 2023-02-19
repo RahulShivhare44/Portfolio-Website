@@ -16,6 +16,7 @@
     height: 100vh;
     overflow-x: hidden;
     overflow-y: auto;
+    background-image: linear-gradient(to bottom,rgb(196, 196, 247),white);
 }
 
 .container {
@@ -629,7 +630,7 @@ a {
     font-size: 10rem;
     font-style: bold;
     color: rgb(231, 231, 231);
-    bottom: -34.5%;
+    bottom: -36.9%;
     right: -4%;
     user-select: none;  
 }
@@ -767,7 +768,8 @@ a {
   .footer-faded-text{
     position:absolute;
     left:0;
-    bottom:0;color:#535c87;
+    bottom:0;
+    color:#535c87;
     user-select:none;
     font-size:5em;
   }
