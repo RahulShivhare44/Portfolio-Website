@@ -16,7 +16,7 @@
     height: 100vh;
     overflow-x: hidden;
     overflow-y: auto;
-    background-image: linear-gradient(to bottom,rgb(196, 196, 247),white);
+    /* background-image: linear-gradient(to bottom,rgb(196, 196, 247),white); */
 }
 
 .container {
